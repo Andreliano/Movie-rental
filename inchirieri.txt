@@ -1,0 +1,7 @@
+2,10,prison break,actiune,erhan,andrei
+3,11,joker,animatie,mihai,enache
+4,13,lighthouse,aventura,marian,forminte
+5,10,dune,aventura,erhan,andrei
+6,11,monster,actiune,mihai,enache
+7,14,the green knight,actiune,marius,moise
+1,10,home alone,comedie,erhan,andrei
